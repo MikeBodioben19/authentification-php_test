@@ -1,0 +1,7 @@
+{
+    "name": "test/testproject",
+    "description": "n",
+    "require": {
+        "symfony/error-handler": "^6.3"
+    }
+}
